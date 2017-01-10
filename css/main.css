@@ -10,7 +10,29 @@ html {
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
     box-sizing: border-box;
+    background-color: #e2e2e2;
   }
 
   *, *::before, *::after {
     box-sizing: inherit;
+  }
+
+h1 {
+
+}
+
+div {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+img {
+
+}
