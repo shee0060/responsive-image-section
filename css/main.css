@@ -30,9 +30,17 @@ p {
 }
 
 a {
+  text-decoration: none;
+  padding: 0.5em 0.75em;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #555;
+}
+
+a.hover {
 
 }
 
 img {
-
+  width: 100%;
 }
