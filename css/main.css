@@ -22,8 +22,8 @@ h1 {
 
 }
 
-div {
-
+.text {
+  margin: 1em;
 }
 
 p {
@@ -35,7 +35,7 @@ a {
   display: inline-block;
   text-decoration: none;
   padding: 0.5em 0.75em;
-  margin: .75em;
+  margin: 0.75em;
   border-radius: 4px;
   color: #fff;
   background-color: #555;
