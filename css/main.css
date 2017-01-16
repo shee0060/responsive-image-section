@@ -61,3 +61,27 @@ img {
   width: 100%;
   max-width: 100%;
 }
+
+@media only screen and (min-width: 38em) {
+  html {
+    font: normal 110%/1.4 sans-serif;
+  }
+
+
+}
+
+@media only screen and (min-width: 60em) {
+  html {
+    font: normal 120%/1.5 sans-serif;
+  }
+
+
+}
+
+@media only screen and (min-width: 90em) {
+  html {
+    font: normal 130%/1.5 sans-serif;
+  }
+
+
+}
