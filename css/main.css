@@ -18,7 +18,7 @@ html {
     box-sizing: inherit;
   }
 
-section {
+body {
   margin: 0;
 }
 
@@ -57,5 +57,7 @@ img {
 }
 
 .img-flex {
+  display: block;
+  width: 100%;
   max-width: 100%;
 }
